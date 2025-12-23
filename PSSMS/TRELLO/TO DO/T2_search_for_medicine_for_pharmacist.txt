@@ -1,0 +1,1 @@
+As a pharmacist I want to search for medicine so that I can check availability
